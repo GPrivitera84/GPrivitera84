@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GPrivitera84
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python, SQL, R
-- 💞️ I’m looking to collaborate on Python, SQL, R
+- 👀 I’m interested in programming and data analytics
+- 🌱 I’m currently learning Python, SQL, 
+- 💞️ I’m looking to collaborate on Python, SQL, 
 - 📫 How to reach me gregory.privitera@gmail.com
 
 <!---
